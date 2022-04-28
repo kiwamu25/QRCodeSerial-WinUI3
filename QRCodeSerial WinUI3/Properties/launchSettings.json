@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "QRCodeSerial WinUI3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "QRCodeSerial WinUI3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
